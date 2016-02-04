@@ -1,5 +1,5 @@
 {
-    "name": "swooneditions/magento-core-installer",
+    "name": "quafzi/magento-core-installer",
     "description": "allow Magento core to be run after installation via Composer",
     "keywords":[ "composer-installer", "magento"],
     "minimum-stability": "dev",
