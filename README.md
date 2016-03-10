@@ -27,3 +27,5 @@ Example:
 ## How to generate a modman file for a whole Magento version?
 
 Run `mage_modman_generator.sh` (which is part of this repository) in your Magento root folder.
+
+HAI
